@@ -1,0 +1,11 @@
+body{font-family: 'Poppins';
+     background-image: url("../img/admin_bg.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: scroll;}
+.text-blue{color: #261fbf;}
+.text-red{color: #ff0000;}
+.bg-red{background-color: #ff0000;}
+.bg-green{background-color: #00FF19 !important;}
+.bg-blue{background-color: #261fbf;}
+.bg-violet{background-color: #63175f;}
